@@ -16,3 +16,9 @@
 
 #### 图片无法打开/网站无法访问请找jily维修。
 
+## 阅读更多：
+### 不吝05 06 ：
+[Link](https://jily18.github.io/bulin05_06/)
+
+### 第十二夜（三）：
+[Link](https://jily18.github.io/ttn.github.io/)

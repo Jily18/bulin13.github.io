@@ -12,6 +12,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/linshi132.jpg)
 #### 图3
 ![Image](https://xiaochengxv-tuchuang.oss-cn-beijing.aliyuncs.com/linshi133.jpg)
+
+
 ### Support or Contact
 
 作者新浪微博 : [Link](https://weibo.com/u/5804614520?profile_ftype=1&is_all=1#_0)
+
+图片无法打开/网站无法访问请找jily。
